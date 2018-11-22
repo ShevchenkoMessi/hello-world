@@ -1,3 +1,3 @@
 # hello-world
 start of github
-Yy name is shevchenkoMessi, I am a fan of Messi and Shevchenko!
+My name is shevchenkoMessi, I am a fan of Messi and Shevchenko!
